@@ -23,8 +23,6 @@
 <br>
 <br>
 
-
-* 🏢  I'm currently working at company
 * 🌱  I’m currently learning Java  and JavaScript
 * 📫  Ask me anything on my issues page
 * 💻  Connect with me on LinkedIn
